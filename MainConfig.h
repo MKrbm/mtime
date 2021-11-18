@@ -1,0 +1,7 @@
+#ifndef __sub__
+#define __sub__
+
+int sub(int a, int b);
+
+int foo();
+#endif
