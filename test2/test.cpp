@@ -1,9 +1,8 @@
 #include <iostream>
-#include <mtime.hpp>
+#include "mtime.hpp"
 #include <cstdlib>
 #include <iostream>
 #include <random>
-#include "MainConfig.h"
 
 int add(int a, int b) {
   return a+b;
